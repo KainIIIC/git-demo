@@ -5,8 +5,6 @@ This is the first file in this repo.
 ## Ipsum Below
 
 Juifloup
+jews
 
-jewsrus
-
-JuifSontNous
-juifs
+1. index.html
